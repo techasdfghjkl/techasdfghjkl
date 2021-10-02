@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning binary
 - 💞️ I’m looking to collaborate on tech
-- 📫 How to reach me ...
+- 📫 How to reach me : through
 
 <!---
 techasdfghjkl/techasdfghjkl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
