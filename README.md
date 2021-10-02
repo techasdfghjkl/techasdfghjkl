@@ -1,7 +1,7 @@
 - 👋 Hi, IAM tecyh giant
-- 👀 I’m interested in ...
+- 👀 I’m interested in 
 - 🌱 I’m currently learning binary
-- 💞️ I’m looking to collaborate on tech
+- 💞️ I’m looking to collaborate on tech updates
 - 📫 How to reach me : through
 
 <!---
